@@ -1,0 +1,101 @@
+{
+  "name": "Шаблон Долговая расписка",
+  "sourceImage": "Долговая расписка 2.jpg",
+  "imageWidth": 600,
+  "imageHeight": 350,
+  "boxes": [
+    {
+      "id": "box_1",
+      "type": "text",
+      "label": "Заголовок",
+      "corners": {
+        "topLeft": {
+          "x": 22.0,
+          "y": 3.0
+        },
+        "topRight": {
+          "x": 562.0,
+          "y": 3.0
+        },
+        "bottomLeft": {
+          "x": 22.0,
+          "y": 48.0
+        },
+        "bottomRight": {
+          "x": 562.0,
+          "y": 48.0
+        }
+      }
+    },
+    {
+      "id": "box_2",
+      "type": "text",
+      "label": "Тело (Основной текст)",
+      "corners": {
+        "topLeft": {
+          "x": 16.0,
+          "y": 50.0
+        },
+        "topRight": {
+          "x": 590.0,
+          "y": 50.0
+        },
+        "bottomLeft": {
+          "x": 16.0,
+          "y": 297.0
+        },
+        "bottomRight": {
+          "x": 590.0,
+          "y": 297.0
+        }
+      }
+    },
+    {
+      "id": "box_4",
+      "type": "text",
+      "label": "Дата",
+      "corners": {
+        "topLeft": {
+          "x": 6.0,
+          "y": 303.0
+        },
+        "topRight": {
+          "x": 339.0,
+          "y": 303.0
+        },
+        "bottomLeft": {
+          "x": 6.0,
+          "y": 347.0
+        },
+        "bottomRight": {
+          "x": 339.0,
+          "y": 347.0
+        }
+      }
+    },
+    {
+      "id": "box_5",
+      "type": "text",
+      "label": "ФИО",
+      "corners": {
+        "topLeft": {
+          "x": 349.0,
+          "y": 300.0
+        },
+        "topRight": {
+          "x": 595.0,
+          "y": 300.0
+        },
+        "bottomLeft": {
+          "x": 349.0,
+          "y": 346.0
+        },
+        "bottomRight": {
+          "x": 595.0,
+          "y": 346.0
+        }
+      }
+    }
+  ],
+  "createdAt": "2026-05-15T20:44:53.810906"
+}

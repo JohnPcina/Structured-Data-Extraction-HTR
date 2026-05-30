@@ -1,0 +1,124 @@
+{
+  "name": "Шаблон Заявления 1",
+  "sourceImage": "Заявление.png",
+  "imageWidth": 904,
+  "imageHeight": 1280,
+  "boxes": [
+    {
+      "id": "box_1",
+      "type": "text",
+      "label": "Шапка",
+      "corners": {
+        "topLeft": {
+          "x": 276.0,
+          "y": 2.0
+        },
+        "topRight": {
+          "x": 890.0,
+          "y": 2.0
+        },
+        "bottomLeft": {
+          "x": 276.0,
+          "y": 354.0
+        },
+        "bottomRight": {
+          "x": 890.0,
+          "y": 354.0
+        }
+      }
+    },
+    {
+      "id": "box_2",
+      "type": "text",
+      "label": "Заголовок",
+      "corners": {
+        "topLeft": {
+          "x": 175.0,
+          "y": 405.0
+        },
+        "topRight": {
+          "x": 776.0,
+          "y": 405.0
+        },
+        "bottomLeft": {
+          "x": 175.0,
+          "y": 466.0
+        },
+        "bottomRight": {
+          "x": 776.0,
+          "y": 466.0
+        }
+      }
+    },
+    {
+      "id": "box_3",
+      "type": "text",
+      "label": "Тело (основной текст)",
+      "corners": {
+        "topLeft": {
+          "x": 0.0,
+          "y": 471.0
+        },
+        "topRight": {
+          "x": 902.0,
+          "y": 471.0
+        },
+        "bottomLeft": {
+          "x": 0.0,
+          "y": 1026.0
+        },
+        "bottomRight": {
+          "x": 902.0,
+          "y": 1026.0
+        }
+      }
+    },
+    {
+      "id": "box_4",
+      "type": "signature",
+      "label": "Подпись",
+      "corners": {
+        "topLeft": {
+          "x": 524.0,
+          "y": 1062.0
+        },
+        "topRight": {
+          "x": 900.0,
+          "y": 1062.0
+        },
+        "bottomLeft": {
+          "x": 524.0,
+          "y": 1260.0
+        },
+        "bottomRight": {
+          "x": 900.0,
+          "y": 1260.0
+        }
+      }
+    },
+    {
+      "id": "box_5",
+      "type": "text",
+      "label": "Дата",
+      "corners": {
+        "topLeft": {
+          "x": 5.0,
+          "y": 1043.0
+        },
+        "topRight": {
+          "x": 418.0,
+          "y": 1043.0
+        },
+        "bottomLeft": {
+          "x": 5.0,
+          "y": 1136.0
+        },
+        "bottomRight": {
+          "x": 418.0,
+          "y": 1136.0
+        }
+      }
+    }
+  ],
+  "createdAt": "2026-05-15T20:38:24.717701"
+}

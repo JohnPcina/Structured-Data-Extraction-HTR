@@ -1,0 +1,147 @@
+{
+  "name": "Шаблон Заявления 2",
+  "sourceImage": "documentTEST.png",
+  "imageWidth": 789,
+  "imageHeight": 813,
+  "boxes": [
+    {
+      "id": "box_1",
+      "type": "text",
+      "label": "Шапка",
+      "corners": {
+        "topLeft": {
+          "x": 169.0,
+          "y": 3.0
+        },
+        "topRight": {
+          "x": 788.0,
+          "y": 3.0
+        },
+        "bottomLeft": {
+          "x": 169.0,
+          "y": 185.0
+        },
+        "bottomRight": {
+          "x": 788.0,
+          "y": 185.0
+        }
+      }
+    },
+    {
+      "id": "box_2",
+      "type": "text",
+      "label": "Заголовок",
+      "corners": {
+        "topLeft": {
+          "x": 124.0,
+          "y": 175.0
+        },
+        "topRight": {
+          "x": 652.0,
+          "y": 175.0
+        },
+        "bottomLeft": {
+          "x": 124.0,
+          "y": 237.0
+        },
+        "bottomRight": {
+          "x": 652.0,
+          "y": 237.0
+        }
+      }
+    },
+    {
+      "id": "box_3",
+      "type": "text",
+      "label": "Тело (Основной текст)",
+      "corners": {
+        "topLeft": {
+          "x": 9.0,
+          "y": 230.0
+        },
+        "topRight": {
+          "x": 788.0,
+          "y": 230.0
+        },
+        "bottomLeft": {
+          "x": 9.0,
+          "y": 471.0
+        },
+        "bottomRight": {
+          "x": 788.0,
+          "y": 471.0
+        }
+      }
+    },
+    {
+      "id": "box_4",
+      "type": "text",
+      "label": "Дата",
+      "corners": {
+        "topLeft": {
+          "x": 12.0,
+          "y": 461.0
+        },
+        "topRight": {
+          "x": 311.0,
+          "y": 461.0
+        },
+        "bottomLeft": {
+          "x": 12.0,
+          "y": 530.0
+        },
+        "bottomRight": {
+          "x": 311.0,
+          "y": 530.0
+        }
+      }
+    },
+    {
+      "id": "box_5",
+      "type": "text",
+      "label": "ФИО",
+      "corners": {
+        "topLeft": {
+          "x": 462.0,
+          "y": 451.0
+        },
+        "topRight": {
+          "x": 779.0,
+          "y": 451.0
+        },
+        "bottomLeft": {
+          "x": 462.0,
+          "y": 547.0
+        },
+        "bottomRight": {
+          "x": 779.0,
+          "y": 547.0
+        }
+      }
+    },
+    {
+      "id": "box_6",
+      "type": "signature",
+      "label": "Подпись",
+      "corners": {
+        "topLeft": {
+          "x": 284.0,
+          "y": 454.0
+        },
+        "topRight": {
+          "x": 475.0,
+          "y": 454.0
+        },
+        "bottomLeft": {
+          "x": 284.0,
+          "y": 601.0
+        },
+        "bottomRight": {
+          "x": 475.0,
+          "y": 601.0
+        }
+      }
+    }
+  ],
+  "createdAt": "2026-05-15T20:41:26.888515"
+}
