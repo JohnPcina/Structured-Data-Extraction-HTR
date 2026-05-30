@@ -1,1 +1,1 @@
-# Structured-Data-Extraction-HTR
+# Structured Data Extraction HTR
